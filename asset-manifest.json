@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VimlenduSharma/google-sheets-clone--react-app/static/css/main.99ea4a5d.css",
-    "main.js": "/VimlenduSharma/google-sheets-clone--react-app/static/js/main.0830ed10.js",
-    "static/js/453.c2f4f74f.chunk.js": "/VimlenduSharma/google-sheets-clone--react-app/static/js/453.c2f4f74f.chunk.js",
-    "index.html": "/VimlenduSharma/google-sheets-clone--react-app/index.html",
-    "main.99ea4a5d.css.map": "/VimlenduSharma/google-sheets-clone--react-app/static/css/main.99ea4a5d.css.map",
-    "main.0830ed10.js.map": "/VimlenduSharma/google-sheets-clone--react-app/static/js/main.0830ed10.js.map",
-    "453.c2f4f74f.chunk.js.map": "/VimlenduSharma/google-sheets-clone--react-app/static/js/453.c2f4f74f.chunk.js.map"
+    "main.css": "/VimlenduSharma.github.io/google-sheets-clone--react-app/static/css/main.99ea4a5d.css",
+    "main.js": "/VimlenduSharma.github.io/google-sheets-clone--react-app/static/js/main.c9bd161f.js",
+    "static/js/453.c2f4f74f.chunk.js": "/VimlenduSharma.github.io/google-sheets-clone--react-app/static/js/453.c2f4f74f.chunk.js",
+    "index.html": "/VimlenduSharma.github.io/google-sheets-clone--react-app/index.html",
+    "main.99ea4a5d.css.map": "/VimlenduSharma.github.io/google-sheets-clone--react-app/static/css/main.99ea4a5d.css.map",
+    "main.c9bd161f.js.map": "/VimlenduSharma.github.io/google-sheets-clone--react-app/static/js/main.c9bd161f.js.map",
+    "453.c2f4f74f.chunk.js.map": "/VimlenduSharma.github.io/google-sheets-clone--react-app/static/js/453.c2f4f74f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99ea4a5d.css",
-    "static/js/main.0830ed10.js"
+    "static/js/main.c9bd161f.js"
   ]
 }
